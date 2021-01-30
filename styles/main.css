@@ -1,7 +1,9 @@
 .head {
   background: #fc0;
   height: 100px;
-  position: relative;
+  position: absolute;
+  top: 50%;
+  left: 50%;
   width: 100px;
 }
 .face {
